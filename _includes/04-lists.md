@@ -1,4 +1,3 @@
-- items
-it
-management
-gate
+- it
+- management
+- gate
